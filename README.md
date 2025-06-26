@@ -5,7 +5,7 @@ Alpha propose 4 niveau de création de wordlists :
 - Niveau 1 (avec le flag "-1") : Basique : mots simples, aucune mutation
 - Niveau 2 (avec le flag "-2") : Mutations simples, suffixes
 - Niveau 3 (avec le flag "-3") : Leet speak, mutations avancées
-- Niveau MAX (avec le flag -max) : Tout activé (leet, permutations, mix...)
+- Niveau MAX (avec le flag "-max") : Tout activé (leet, permutations, mix...)
 
 ### **Cet outil s'utilise sur linux de préférence.**
 
