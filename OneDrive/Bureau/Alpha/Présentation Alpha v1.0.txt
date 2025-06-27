@@ -1,0 +1,6 @@
+Alpha, par Neurones le plus beau et le plus uhq de tous :
+
+Alpha est un générateur de wordlists basées sur les informations dont vous disposez sur quelqu'un. Votre mot de passe n'est pas dans rockyou et vous pensez que vous êtes protégé ? Alpha est là pour vous faire vous poser des questions sur votre sécurité sur Internet ;).
+Car oui, aussi bête que cela puisse paraître, la majorité des gens mettent des détails open source dans leur mot de passe comme leur prénom, leur pseudo, leur date de naissance ou autre information personnelle, grâce à Alpha, le peu d'informations dont vous disposez sur la fille au 2eme rang dans votre classe de maths, peuvent vous permettre d'obtenir des choses beaucoup plus croustillantes hihihi...  
+
+LE TOOL S'UTILISE SUR LINUX DE PRÉFÉRENCE POUR DES SOUCIS DE PRATIQUE
